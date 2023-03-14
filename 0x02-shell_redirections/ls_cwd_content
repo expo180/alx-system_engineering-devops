@@ -1,0 +1,13 @@
+total 52
+drwxrwxr-x 2 bader bader  4096 mars  14 12:27 .
+drwxrwxr-x 5 bader bader  4096 mars  13 14:45 ..
+-rwxrw-r-- 1 bader bader    32 mars  13 14:48 0-hello_world
+-rwxrw-r-- 1 bader bader    28 mars  13 15:32 1-confused_smiley
+-rw------- 1 bader bader 12288 mars  13 15:17 .1-confused_smiley.swp
+-rwxrw-r-- 1 bader bader    29 mars  13 15:56 2-hellofile
+-rwxrw-r-- 1 bader bader    42 mars  13 18:37 3-twofiles
+-rwxrw-r-- 1 bader bader    33 mars  14 12:07 4-lastlines
+-rwxrw-r-- 1 bader bader    33 mars  14 12:10 5-firstlines
+-rwxrw-r-- 1 bader bader    36 mars  14 12:26 8-cwd_state
+-rw-rw-r-- 1 bader bader     0 mars  14 12:27 ls_cwd_content
+-rw-rw-r-- 1 bader bader    24 mars  13 14:52 README.md
